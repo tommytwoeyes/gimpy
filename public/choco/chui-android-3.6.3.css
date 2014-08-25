@@ -425,7 +425,7 @@ nav > h1 {
   -moz-box-flex: 1 !important;
   -webkit-flex: 1 !important;
   flex: 1 !important;
-  font: 100 16pt/36pt Roboto, SegoeWP, HelveticaNeue, Sans-serif !important;
+/*  font: 100 16pt/36pt Roboto, SegoeWP, HelveticaNeue, Sans-serif !important; */
   position: relative;
   z-index: -1;
   white-space: nowrap;
