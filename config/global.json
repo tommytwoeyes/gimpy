@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Gimpy": {
+            "applicationId": "S78IvYkLAUrQHdE7iIppMOvym7BnfDzSLXcvvDRM", 
+            "masterKey": "wRSMIPFbvGE3SrqRV61JrJAw19sWHTPoxehlIGEn"
+        }, 
+        "_default": {
+            "link": "Gimpy"
+        }
+    }
+}
